@@ -1,5 +1,5 @@
 
-# Flutter Weather app Clima
+# Flutter Weather app Clima 🌩
 
 I have made this app while learning flutter. In this application i have learned to how to use api and how to access data from api and use it in the app.
 
